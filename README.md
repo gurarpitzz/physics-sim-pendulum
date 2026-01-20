@@ -105,6 +105,9 @@ The animation loop:
 * **Magenta trajectory** with multi-layer bloom
 * Minimal UI for a cinematic look
 
+  ![20 01 2026_22 50 13_REC-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/520b1132-99b0-4a66-a292-b27bc6e47341)
+
+
 ---
 
 ## 🔬 Educational Value
